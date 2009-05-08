@@ -1,3 +1,10 @@
+Description:
+
+QuartzMS is a media server that responds to Art-Net protocol.  Basicly it is a Apple Quartz Composer file with the Art-Net DMX patch from Kineme.  The patch can be downloaded a tested for a 7 day trial.  A license can be purchased for 15 dollars US.  The Quartz Composer Visualizer will be need for production use.  At this time Quartz Composer is also needed to adjust the display size and DMX setting.  In the future this will be added to a XML configuration file.
+
+Files:
+	QuartzMS.fix is a fixture file for a JandsVista Console.
+
 Quartz Media Server Art-Net Specification:
 
 DMX 1 - Video Bus A File 
